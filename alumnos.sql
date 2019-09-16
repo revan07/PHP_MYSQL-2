@@ -1,6 +1,6 @@
 create database alumnos;
 
-crate table alumnos(
+crate table estudiantes(
 codigo int auto_ increment primary key
 nombre varchar(50)
 mail varchar (70)
